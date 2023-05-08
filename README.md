@@ -46,4 +46,19 @@
 
 <br>
 
+### 문자열에 대한 오름차순 정렬 예시
+
+<br> 
+
+![image](https://user-images.githubusercontent.com/38232501/236801433-839c81c7-96c8-4830-ad7a-720b8a001e71.png)
+
+<br> 
+
+### 객체에 대하여 원하는 기준으로 오름차순 정렬 예시
+
+<br>
+
+![image](https://user-images.githubusercontent.com/38232501/236801641-b08bbe15-182e-4f0c-9b3d-3cd174c72fba.png)
+
+<br>
 
