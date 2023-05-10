@@ -73,3 +73,14 @@
 
 <br>
 
+---
+
+# 백트래킹
+## N-Queen
+
+<br>
+
+![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/c42c986f-88cc-41bd-9b00-4dca5412ede8)
+
+<br>
+
