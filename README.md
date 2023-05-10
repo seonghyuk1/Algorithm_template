@@ -62,3 +62,14 @@
 
 <br>
 
+---
+# 이진 탐색 
+## lowerBound & upperBound
+
+<br>
+
+![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/70701275-0222-4170-be44-897efda944b5)
+
+
+<br>
+
