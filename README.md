@@ -84,3 +84,19 @@
 
 <br>
 
+---
+
+# DFS (깊이우선 탐색)
+
+
+<br>
+
+![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/3d4890f8-87ea-4f8a-9a7c-76af9eb2b0f3)
+
+
+<br>
+
+![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/845d07ad-341c-49b1-a9f3-9b1d608cb551)
+
+
+<br>
