@@ -1,3 +1,5 @@
+#### 알고리즘 활용 문제풀이는 velog에 정리되어 있습니다.
+
 # 정렬 알고리즘
 ## 선택 정렬
 매 단계에서 가장 작은 원소를 선택해서 앞으로 보내는 정렬 방법, 앞으로 보내진 원소는 더 이상 위치 변경 X, 시간 복잡도 O(N2) 비효율적인 정렬 알고리즘
@@ -98,5 +100,21 @@
 
 ![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/845d07ad-341c-49b1-a9f3-9b1d608cb551)
 
+
+<br>
+
+
+---
+
+# BFS (너비우선 탐색)
+
+<br>
+
+![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/45b42091-d628-4d34-9a45-ec151e8894b3)
+
+
+<br>
+
+![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/48355c78-8abb-44c2-90f0-fdfca1a94b3e)
 
 <br>
