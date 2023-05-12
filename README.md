@@ -118,3 +118,30 @@
 ![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/48355c78-8abb-44c2-90f0-fdfca1a94b3e)
 
 <br>
+
+---
+
+# 다이나믹 프로그래밍 
+
+<br>
+
+![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/8bc20fb9-1c9d-418d-887d-ee9b102f53a9)
+
+<br>
+
+### 하향식
+
+<br>
+
+![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/7e8ef8b8-ee05-496c-9f06-8d62552a4cd9)
+
+<br>
+
+
+### 상향식
+
+<br>
+
+![image](https://github.com/seonghyuk1/Algorithm_template/assets/38232501/72faa899-c1ac-4833-911e-62f56b86992c)
+
+<br>
